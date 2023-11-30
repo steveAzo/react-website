@@ -1,0 +1,12 @@
+* {
+    background-color: red;
+}
+
+.navbar {
+    padding-top: 40vh;
+    position: fixed;
+}
+
+.hello {
+    width: 70px;
+}
